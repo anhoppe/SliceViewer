@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net462</TargetFramework>
+    <Nullable>enable</Nullable>
+	  <LangVersion>8</LangVersion>
+	  <Platforms>x64</Platforms>
+	  <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+	  <Description>foo</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies.net472" Version="1.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\gsGCode\gsGCode.csproj" />
+    <ProjectReference Include="..\NineTLabs.LayerSource.Contract\NineTLabs.LayerSource.Contract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+  </ItemGroup>
+
+</Project>
