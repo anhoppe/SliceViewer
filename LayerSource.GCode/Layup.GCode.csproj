@@ -98,11 +98,11 @@
       <Project>{25de77c9-14a4-4562-9a24-0bf1e612d9a9}</Project>
       <Name>gsGCode</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NineTLabs.LayerSource.Contract\Layup.Contract.csproj">
+    <ProjectReference Include="..\LayerSource.Contract\Layup.Contract.csproj">
       <Project>{c4681457-4f06-4cd6-97c6-70bd91a5b508}</Project>
       <Name>Layup.Contract</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NineTLabs.Logger.Contract\Logger.Contract.csproj">
+    <ProjectReference Include="..\Logger.Contract\Logger.Contract.csproj">
       <Project>{B4CCA279-A416-47F8-A98E-6C02876AE75F}</Project>
       <Name>Logger.Contract</Name>
     </ProjectReference>

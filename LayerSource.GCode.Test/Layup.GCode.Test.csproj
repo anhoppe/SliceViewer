@@ -106,19 +106,19 @@
       <Project>{25DE77C9-14A4-4562-9A24-0BF1E612D9A9}</Project>
       <Name>gsGCode</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NineTLabs.LayerSource.Contract\Layup.Contract.csproj">
+    <ProjectReference Include="..\LayerSource.Contract\Layup.Contract.csproj">
       <Project>{C4681457-4F06-4CD6-97C6-70BD91A5B508}</Project>
       <Name>Layup.Contract</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NineTLabs.LayerSource.GCode\Layup.GCode.csproj">
+    <ProjectReference Include="..\LayerSource.GCode\Layup.GCode.csproj">
       <Project>{7FD006B4-A7F5-4048-B80F-3AC59755C56C}</Project>
       <Name>Layup.GCode</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NineTLabs.Logger.Contract\Logger.Contract.csproj">
+    <ProjectReference Include="..\Logger.Contract\Logger.Contract.csproj">
       <Project>{b4cca279-a416-47f8-a98e-6c02876ae75f}</Project>
       <Name>Logger.Contract</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NineTLabs.UnitTestTools\UnitTestTools.csproj">
+    <ProjectReference Include="..\UnitTestTools\UnitTestTools.csproj">
       <Project>{AEE037BF-2327-4065-B736-C2C72B63A975}</Project>
       <Name>UnitTestTools</Name>
     </ProjectReference>
