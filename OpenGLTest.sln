@@ -5,17 +5,17 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLTest", "OpenGLTest\OpenGLTest.csproj", "{06B8D6F4-EB7B-4F1C-B12C-C645F34079BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layup.Contract", "NineTLabs.LayerSource.Contract\Layup.Contract.csproj", "{C4681457-4F06-4CD6-97C6-70BD91A5B508}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layup.Contract", "LayerSource.Contract\Layup.Contract.csproj", "{C4681457-4F06-4CD6-97C6-70BD91A5B508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layup.GCode.Test", "NineTLabs.LayerSource.GCode.Test\Layup.GCode.Test.csproj", "{651D479E-DBBD-48F0-9278-8FFA9E2BFB98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layup.GCode.Test", "LayerSource.GCode.Test\Layup.GCode.Test.csproj", "{651D479E-DBBD-48F0-9278-8FFA9E2BFB98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTools", "NineTLabs.UnitTestTools\UnitTestTools.csproj", "{AEE037BF-2327-4065-B736-C2C72B63A975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTools", "UnitTestTools\UnitTestTools.csproj", "{AEE037BF-2327-4065-B736-C2C72B63A975}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gsGCode", "gsGCode\gsGCode.csproj", "{25DE77C9-14A4-4562-9A24-0BF1E612D9A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layup.GCode", "NineTLabs.LayerSource.GCode\Layup.GCode.csproj", "{7FD006B4-A7F5-4048-B80F-3AC59755C56C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layup.GCode", "LayerSource.GCode\Layup.GCode.csproj", "{7FD006B4-A7F5-4048-B80F-3AC59755C56C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger.Contract", "NineTLabs.Logger.Contract\Logger.Contract.csproj", "{B4CCA279-A416-47F8-A98E-6C02876AE75F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger.Contract", "Logger.Contract\Logger.Contract.csproj", "{B4CCA279-A416-47F8-A98E-6C02876AE75F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gsGCode.Test", "gsGCode.Test\gsGCode.Test.csproj", "{2CEDFE2D-482B-4351-A244-1BAC1FFADF46}"
 EndProject

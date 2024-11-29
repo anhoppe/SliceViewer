@@ -146,7 +146,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NineTLabs.LayerSource.Contract\Layup.Contract.csproj">
+    <ProjectReference Include="..\LayerSource.Contract\Layup.Contract.csproj">
       <Project>{c4681457-4f06-4cd6-97c6-70bd91a5b508}</Project>
       <Name>Layup.Contract</Name>
     </ProjectReference>
